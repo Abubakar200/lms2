@@ -15,7 +15,7 @@ import { Label } from "@radix-ui/react-label";
 import PriceForm from "./_components/price-form";
 import AttachmentForm from "./_components/attachment-form";
 import { ImageForm } from "./_components/image-form";
-import ChaptersForm from "./_components/chapters-form";
+import {ChaptersForm} from "./_components/chapters-form";
 import { Banner } from "@/components/banner";
 import { Actions } from "./_components/actions";
 
